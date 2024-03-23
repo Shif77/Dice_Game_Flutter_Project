@@ -1,0 +1,4 @@
+#Thu Mar 21 01:03:45 BDT 2024
+base.0=C\:\\Users\\user\\StudioProjects\\dice_game\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

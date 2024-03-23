@@ -1,0 +1,1 @@
+ C:\\Users\\user\\StudioProjects\\dice_game\\.dart_tool\\flutter_build\\c9eab4e304a79fb28d7d12ba352faf1f\\native_assets.yaml: 
